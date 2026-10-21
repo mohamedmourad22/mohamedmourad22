@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Mourad
 
-**Computer Engineer | Machine Learning | Federated Learning**
+**Aspiring AI/ML Engineer | Computer Engineering graduate | Machine Learning & Federated Learning**
 
 I'm a Computer Engineering graduate (honors, 2025) from the Arab Academy for Science, Technology and Maritime Transport, based in Alexandria, Egypt, and I'm looking for AI/ML Engineer roles. I've built machine learning projects across speech, images, and tabular data, including a federated learning system for early Alzheimer's detection.
 
